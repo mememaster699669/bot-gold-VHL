@@ -41,8 +41,8 @@ By using this software, you agree to use it solely for learning purposes.
 
 Clone the repository:
 ```bash
-git clone https://github.com/mememaster699669/bot-trade-gold-VHL.git
-cd bot-trade-gold-VHL
+git clone https://github.com/mememaster699669/bot-gold-VHL.git
+cd bot-gold-VHL
 ```
 
 1. Install Poetry (if not already installed):
