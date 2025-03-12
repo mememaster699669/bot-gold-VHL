@@ -1,7 +1,7 @@
 [tool.poetry]
-name = "ai-hedge-fund"
+name = "bot-gold-VHL"
 version = "0.1.0"
-description = "An AI-powered hedge fund that uses multiple agents to make trading decisions"
+description = "An AI-powered bot that uses TA and ML to make trading decisions"
 authors = ["Your Name <your.email@example.com>"]
 readme = "README.md"
 packages = [
